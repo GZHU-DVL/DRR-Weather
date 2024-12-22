@@ -52,7 +52,7 @@ python -m torch.distributed.launch --nproc_per_node=$NUM_GPUS test.py --opt path
 
 ## Acknowledgments
 
-The code is developed based on [SwinIR]([https://github.com/JingyunLiang/SwinIR) and [GT-RAIN](https://github.com/UCLA-VMG/GT-RAIN). Sincere thanks to their wonderful works.
+The code is developed based on [SwinIR](https://github.com/JingyunLiang/SwinIR) and [GT-RAIN](https://github.com/UCLA-VMG/GT-RAIN). Sincere thanks to their wonderful works.
 
 
 
